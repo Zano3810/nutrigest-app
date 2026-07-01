@@ -1,0 +1,61 @@
+{
+    "admin_password": "superadmin123",
+    "utenti_admin": [
+        "SuperAdmin"
+    ],
+    "ticket_attivi": [
+        "BONUS2026",
+        "40DSW4PZ"
+    ],
+    "piano_nutrizionale": {
+        "Lunedì": {
+            "🌅 Mattina (Colazione)": "1 Tazza di Tè verde Tisana (250g) + 300g di Latte Zymil senza grassi + 40g di Cereali o Corn Flakes a basso contenuto di zuccheri + 15g di Miele + 150g di Frutta fresca.",
+            "🍏 Spuntino Mattina": "150g di Frutta fresca di stagione.",
+            "🕛 Mezzogiorno (Pranzo)": "100g di Verdura cruda (Lattuga o Valeriana) + 200g di Verdure cotte al vapore + 40g di Riso Basmati integrale + 200g di Petto di Pollo alla piastra. Condire con 1 cucchiaio e mezzo di olio EVO.",
+            "🍎 Spuntino Pomeriggio": "1 vasetto di Yogurt magro o Greco alla frutta (125g-170g).",
+            "🌙 Sera (Cena)": "100g di Verdura cruda + 200g di Verdure cotte + 40g di Pasta di grano saraceno o mais + 250g di Merluzzo o Nasello al vapore. Condire con 1 cucchiaio e mezzo di olio EVO."
+        },
+        "Martedì": {
+            "🌅 Mattina (Colazione)": "Porridge di avena (100g di latte di soia + 40g di fiocchi d'avena) + 150g di Frutta fresca + 10g di Mandorle o Noci.",
+            "🍏 Spuntino Mattina": "30g di Gallette di mais o riso integrale + 20g di Cioccolato fondente 85%.",
+            "🕛 Mezzogiorno (Pranzo)": "100g di Verdura cruda + 200g di Verdure cotte + 40g di Quinoa o Cous cous + 250g di Seppie o Sogliola ai ferri. Condire con 1 cucchiaio e mezzo di olio EVO.",
+            "🍎 Spuntino Pomeriggio": "200g di Succo di frutta biologico (senza zuccheri aggiunti) + 20g di Gallette di mais + 2 cucchiaini di burro d'arachidi (10g) + 1 vasetto di Yogurt magro (125g).",
+            "🌙 Sera (Cena)": "100g di Verdura cruda + 200g di Verdure cotte + 180g di Patate al forno + 200g di Fesa di Tacchino ai ferri. Condire con 1 cucchiaio e mezzo di olio EVO."
+        },
+        "Mercoledì": {
+            "🌅 Mattina (Colazione)": "Pancake senza glutine (100g albume + 10g zucchero di canna + 50g farina di riso) + 30g di Marmellata Rigoni di Asiago (senza zuccheri aggiunti) + 150g di Frutta fresca.",
+            "🍏 Spuntino Mattina": "150g di Frutta fresca di stagione.",
+            "🕛 Mezzogiorno (Pranzo)": "100g di Verdura cruda + 200g di Verdure cotte + 40g di Pasta di riso o quinoa + 3 Uova intere (180g) a frittata o sode. Condire con 1 cucchiaio e mezzo di olio EVO.",
+            "🍎 Spuntino Pomeriggio": "100g di Kefir da bere.",
+            "🌙 Sera (Cena)": "Minestrone o Zuppa di verdure libera + 40g di Cereale integrale inserito nella zuppa + 150g di Lenticchie o Ceci (pesati cotti/in scatola). Condire con 1 cucchiaio e mezzo di olio EVO."
+        },
+        "Giovedì": {
+            "🌅 Mattina (Colazione)": "1 Tazza di Tè verde + 125g di Yogurt magro + 4 Fette biscottate a basso contenuto di zuccheri + 15g di Miele + 150g di Frutta fresca.",
+            "🍏 Spuntino Mattina": "Crackers senza glutine (una monoporzione) + 20g di frutta secca (Noci o Nocciole).",
+            "🕛 Mezzogiorno (Pranzo)": "100g di Verdura cruda + 200g di Verdure cotte + 40g di Riso Venere o Rosso + 200g di Coniglio magro o Fesa ai ferri. Condire con 1 cucchiaio e mezzo di olio EVO.",
+            "🍎 Spuntino Pomeriggio": "200g di Succo di frutta biologico + 20g di Gallette di riso integrale + 2 cucchiaini di burro d'arachidi (10g) + 1 vasetto di Yogurt magro (125g).",
+            "🌙 Sera (Cena)": "100g di Verdura cruda + 200g di Verdure cotte + 100g di Gnocchi di patate + 250g di Spigola o Rana Pescatrice al cartoccio. Condire con 1 cucchiaio e mezzo di olio EVO."
+        },
+        "Venerdì": {
+            "🌅 Mattina (Colazione)": "1 Tazza di Tisana + 170g di Yogurt greco alla frutta + 40g di Cereali integrali + 10g di Cioccolato fondente 85% a scaglie.",
+            "🍏 Spuntino Mattina": "150g di Frutta fresca di stagione.",
+            "🕛 Mezzogiorno (Pranzo)": "100g di Verdura cruda + 200g di Verdure cotte + 40g di Pasta di mais + 250g di Platessa, Rombo o Sogliola. Condire con 1 cucchiaio e mezzo di olio EVO.",
+            "🍎 Spuntino Pomeriggio": "1 vasetto di Yogurt greco bianco o alla frutta (170g).",
+            "🌙 Sera (Cena)": "100g di Verdura cruda + 200g di Verdure cotte + 40g di Riso integrale + 200g di Petto di Tacchino alla piastra. Condire con 1 cucchiaio e mezzo di olio EVO."
+        },
+        "Sabato": {
+            "🌅 Mattina (Colazione)": "Porridge di avena (100g di latte di soia + 40g di fiocchi d'avena) + 150g di Frutta fresca + 15g di Miele.",
+            "🍏 Spuntino Mattina": "30g di Gallette di mais + 20g di Mandorle o Noci.",
+            "🕛 Mezzogiorno (Pranzo)": "100g di Verdura cruda + 200g di Verdure cotte + 40g di Polenta integrale + 100g di Mozzarella light (oppure 80g di Feta o 150g di Fiocchi di latte). Condire con 1 cucchiaio e mezzo di olio EVO.",
+            "🍎 Spuntino Pomeriggio": "150g di Frutta fresca (es. una mela o una pera).",
+            "🌙 Sera (Cena)": "🍕 PASTO LIBERO SEGNALATO IN DIETA (Cena libera a scelta, ideale per il sabato sera!)."
+        },
+        "Domenica": {
+            "🌅 Mattina (Colazione)": "🌅 Mattina (Colazione): 1 Tazza di Tè verde/Tisana (250g) + 300g di Latte Zymil senza grassi + 40g di Cereali o Corn Flakes a basso contenuto di zuccheri + 15g di Miele + 150g di Frutta fresca.",
+            "🍏 Spuntino Mattina": "150g di Frutta fresca di stagione.",
+            "🕛 Mezzogiorno (Pranzo)": "100g di Verdura cruda (Lattuga o Valeriana) + 200g di Verdure cotte al vapore + 40g di Riso Basmati integrale + 200g di Petto di Pollo alla piastra. Condire con 1 cucchiaio e mezzo di olio EVO.",
+            "🍎 Spuntino Pomeriggio": "1 vasetto di Yogurt magro o Greco alla frutta (125g-170g).",
+            "🌙 Sera (Cena)": "100g di Verdura cruda + 200g di Verdure cotte + 40g di Pasta di grano saraceno o mais + 250g di Merluzzo o Nasello al vapore. Condire con 1 cucchiaio e mezzo di olio EVO."
+        }
+    }
+}
